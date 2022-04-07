@@ -1,0 +1,11 @@
+.card-title {
+    text-align: center;
+    font-family: cursive;
+}
+
+.card-text {
+    text-align: justify;
+    font-size: 20px;
+    color: blue;
+    font-family: fantasy;
+}
